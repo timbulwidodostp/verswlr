@@ -1,6 +1,8 @@
 # verswlr
 Perform versatile weighted log-rank test Use verswlr With STATA 19
 
+https://www.youtube.com/watch?v=6vVW5ghdCpI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
